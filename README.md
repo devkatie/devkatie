@@ -13,7 +13,8 @@
   <b>I suffered the loss of my brother and father, as well as others close to me.</b><br>
   <b>Through every challenge I've had to face, I perservered on and kept on my path.</b><br>
   <b>I am now ready to enter into the workforce, dedicated and strong. So, consider hiring me!</b><br>
- </p>
+</p>
+- - -
 ## Languages
     <ul>
       <li>Java</li>
