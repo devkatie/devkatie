@@ -3,7 +3,7 @@
 [![LinkedIn Logo](https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-128.png)](https://www.linkedin.com/in/katie-porter-49394256/)
 [![Contact Me](https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-128.png)](mailto:kporter4196@gmail.com)
 ## Languages
-Java, HTML5, CSS, Javascript, Python, SQL, R, Assembly, Lua
+Java, HTML5, CSS, Javascript, Python, SQL, R, Assembly, React
 
 ## Software Developer
 <p align="center">
