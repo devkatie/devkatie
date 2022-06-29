@@ -8,12 +8,8 @@ Java, HTML5, CSS, Javascript, Python, SQL, R, Assembly
 ## Software Developer
 <p align="center">
   <b>Hi! My name is Katie. I'm a graduate from</b>
-  <b>St. Joseph's College on Long Island, NY.</b><br>
-  <b>I graduated with a Bachelors in Mathematics and Computer Science,</b><br>
-  <b>and I am currently seeking employment within the Computer Science field!</b><br>
-  <b>I am self-motivated, driven, and resilient.
-  <b>Through every challenge I've had to face, I persevered on and kept on my path.</b><br>
-  <b>I am now ready to enter into the workforce, dedicated and strong. So, consider hiring me!</b><br>
+  <b>St. Joseph's College on Long Island, NY, with a</b><br>
+  <b>Bachelors in Mathematics and Computer Science</b><br>
 </p>
 
 <!--
